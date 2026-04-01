@@ -126,31 +126,6 @@ Anomic Protocol is a **Tornado Cash-inspired** decentralized privacy mixer using
 - npm ≥ 9
 - Circom 2.x (for ZK circuits)
 
-### Installation
-
-```bash
-# Clone repository
-git clone https://github.com/anomic-protocol/anomic-protocol.git
-cd anomic-protocol
-
-# Install dependencies
-npm install
-
-# Copy environment file
-cp .env.example .env
-
-# Start development server
-npm run dev
-```
-
-### Build for Production
-
-```bash
-npm run build
-npm run preview
-```
-
----
 
 ## Development Commands
 
