@@ -1,6 +1,6 @@
 # Anomic Protocol 🛡️
 
-> **Decentralized ZK-SNARK Privacy Mixer** — Anonymous transactions on Ethereum & L2 networks
+> **Decentralized ZK-SNARK Privacy Mixer** — Anonymous transactions on Ethereum & L2 networks & Bitcoin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
