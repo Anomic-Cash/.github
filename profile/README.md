@@ -244,11 +244,11 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Links
 
-- 🌐 **Website**: [anomic.cash](https://anomic-cash.eth.limo/)
-- 📖 **Docs**: [docs.anomic.cash](https://anomic-cash.eth.limo/#/docs)
+- 🌐 **Website**: [anomic-cash](https://anomic-cash.eth.limo/)
+- 📖 **Docs**: [anomic-cash/docs](https://anomic-cash.eth.limo/#/docs)
 - 💬 **Discord Community CULT**: [Join](https://discord.gg/9ptg3YpM)
 - 💬 **Telegram Official DAO**: [Join](https://t.me/AnomicCashDAO)
-- 🐦 **Twitter**: [@AnomicProtocol](https://x.com/AnomicCash)
+- 🐦 **Twitter**: [@AnomicCash](https://x.com/AnomicCash)
 
 ---
 
